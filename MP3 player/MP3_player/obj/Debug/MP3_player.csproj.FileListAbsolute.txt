@@ -1,0 +1,15 @@
+C:\Users\brand\source\repos\MP3_player\MP3_player\bin\Debug\MP3_player.exe.config
+C:\Users\brand\source\repos\MP3_player\MP3_player\bin\Debug\MP3_player.exe
+C:\Users\brand\source\repos\MP3_player\MP3_player\bin\Debug\MP3_player.pdb
+C:\Users\brand\source\repos\MP3_player\MP3_player\bin\Debug\Interop.WMPLib.dll
+C:\Users\brand\source\repos\MP3_player\MP3_player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\brand\source\repos\MP3_player\MP3_player\obj\Debug\MP3_player.csprojResolveAssemblyReference.cache
+C:\Users\brand\source\repos\MP3_player\MP3_player\obj\Debug\Interop.WMPLib.dll
+C:\Users\brand\source\repos\MP3_player\MP3_player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\brand\source\repos\MP3_player\MP3_player\obj\Debug\MP3_player.csproj.ResolveComReference.cache
+C:\Users\brand\source\repos\MP3_player\MP3_player\obj\Debug\MP3_player.Form1.resources
+C:\Users\brand\source\repos\MP3_player\MP3_player\obj\Debug\MP3_player.Properties.Resources.resources
+C:\Users\brand\source\repos\MP3_player\MP3_player\obj\Debug\MP3_player.csproj.GenerateResource.Cache
+C:\Users\brand\source\repos\MP3_player\MP3_player\obj\Debug\MP3_player.csproj.CoreCompileInputs.cache
+C:\Users\brand\source\repos\MP3_player\MP3_player\obj\Debug\MP3_player.exe
+C:\Users\brand\source\repos\MP3_player\MP3_player\obj\Debug\MP3_player.pdb
